@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/wedding-invitation/static/css/main.5c55cc13.css",
-    "main.js": "/wedding-invitation/static/js/main.9523d0e6.js",
-    "static/js/260.65b89eb2.chunk.js": "/wedding-invitation/static/js/260.65b89eb2.chunk.js",
+    "main.css": "/wedding-invitation/static/css/main.c64e85ad.css",
+    "main.js": "/wedding-invitation/static/js/main.aecbd8bb.js",
+    "static/js/260.96522e2c.chunk.js": "/wedding-invitation/static/js/260.96522e2c.chunk.js",
     "static/css/80.e7692f5b.chunk.css": "/wedding-invitation/static/css/80.e7692f5b.chunk.css",
     "static/js/80.51565d42.chunk.js": "/wedding-invitation/static/js/80.51565d42.chunk.js",
     "static/css/76.0f04ded0.chunk.css": "/wedding-invitation/static/css/76.0f04ded0.chunk.css",
@@ -17,9 +17,9 @@
     "static/js/767.4c985920.chunk.js": "/wedding-invitation/static/js/767.4c985920.chunk.js",
     "static/media/Background.svg": "/wedding-invitation/static/media/Background.577c48785448787b1e0d.svg",
     "index.html": "/wedding-invitation/index.html",
-    "main.5c55cc13.css.map": "/wedding-invitation/static/css/main.5c55cc13.css.map",
-    "main.9523d0e6.js.map": "/wedding-invitation/static/js/main.9523d0e6.js.map",
-    "260.65b89eb2.chunk.js.map": "/wedding-invitation/static/js/260.65b89eb2.chunk.js.map",
+    "main.c64e85ad.css.map": "/wedding-invitation/static/css/main.c64e85ad.css.map",
+    "main.aecbd8bb.js.map": "/wedding-invitation/static/js/main.aecbd8bb.js.map",
+    "260.96522e2c.chunk.js.map": "/wedding-invitation/static/js/260.96522e2c.chunk.js.map",
     "80.e7692f5b.chunk.css.map": "/wedding-invitation/static/css/80.e7692f5b.chunk.css.map",
     "80.51565d42.chunk.js.map": "/wedding-invitation/static/js/80.51565d42.chunk.js.map",
     "76.0f04ded0.chunk.css.map": "/wedding-invitation/static/css/76.0f04ded0.chunk.css.map",
@@ -34,7 +34,7 @@
     "767.4c985920.chunk.js.map": "/wedding-invitation/static/js/767.4c985920.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c55cc13.css",
-    "static/js/main.9523d0e6.js"
+    "static/css/main.c64e85ad.css",
+    "static/js/main.aecbd8bb.js"
   ]
 }
